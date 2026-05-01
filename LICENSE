@@ -1,0 +1,33 @@
+MemScope Documentation License
+
+Copyright (c) 2026 MemScope. All rights reserved.
+
+This documentation accompanies the proprietary "memscope-fw" software
+product distributed via the Python Package Index
+(https://pypi.org/project/memscope-fw/). The software itself is
+governed by its own End-User License Agreement; see the LICENSE file
+shipped in the wheel.
+
+You may:
+  - View, read, and reference this documentation for the purpose of
+    evaluating, installing, configuring, or operating memscope-fw.
+  - Quote short passages with attribution to "MemScope" for the
+    purpose of reviews, training material, or technical articles.
+  - Link to any URL in this repository.
+
+You may not, without prior written permission from MemScope:
+  - Redistribute, mirror, or republish this documentation in whole
+    or in substantial part, in any medium, including translations.
+  - Modify this documentation and present the result as MemScope's
+    official documentation.
+  - Use this documentation as the basis for a derivative product or
+    competing offering.
+
+This documentation is provided "AS IS", without warranty of any kind.
+The legally binding terms governing your use of memscope-fw are those
+of the End-User License Agreement included with the software; this
+documentation license governs only the prose, examples, and figures
+contained in this repository.
+
+For permission requests or corrections, contact the support address
+listed in README.md.
