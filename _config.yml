@@ -1,0 +1,5 @@
+title: MemScope Documentation
+description: Local-first firmware footprint intelligence — full configuration and usage docs.
+theme: jekyll-theme-cayman
+show_downloads: false
+markdown: kramdown
